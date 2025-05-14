@@ -5,7 +5,7 @@ A simple event management web application built with PHP and MySQL. Users can re
 ## 📁 Project Structure
 
 - `index.php` – Main entry point.
-- `db/connection.php` – Database connection.
+- `includes/db.php` – Database connection.
 - `auth/` – User registration and login.
 - `events/` – Event creation and management.
 - `needs/` – Manage event-related needs.
@@ -13,7 +13,6 @@ A simple event management web application built with PHP and MySQL. Users can re
 ## ⚙️ Features
 
 - User registration and login
-- Role-based access (admin, user)
 - Create and manage events
 - Track event needs and fulfillment status
 - Event state transitions (draft → active → full/completed)
