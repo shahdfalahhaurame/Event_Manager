@@ -14,7 +14,7 @@ A simple event management web application built with PHP and MySQL. Users can re
 
 - User registration and login
 - Create and manage events
-- Track event needs and fulfillment status
+- Track event needs
 - Event state transitions (draft → active → full/completed)
 
 ## 🛠️ Setup Instructions
